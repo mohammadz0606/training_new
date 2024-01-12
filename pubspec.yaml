@@ -30,6 +30,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  sts_pay_one:
+    git: https://github.com/mohammadz0606/sts_one_pay_skd.git
+    ref :
 
 
   # The following adds the Cupertino Icons font to your application.
