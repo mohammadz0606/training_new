@@ -16,7 +16,7 @@ dependencies:
   sts_one_pay:
     git:
       url: https://github.com/mohammadz0606/sts_one_pay_skd.git
-      ref: test
+      ref: marge_all
 
 dev_dependencies:
   flutter_test:
