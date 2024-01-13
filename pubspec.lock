@@ -165,7 +165,7 @@ packages:
     description:
       path: "."
       ref: marge_all
-      resolved-ref: e0c40207de355428ecec0d6d8896d8adc90d75b2
+      resolved-ref: "72e5b5a1bc882272859354ea711003b269f862c9"
       url: "https://github.com/mohammadz0606/sts_one_pay_skd.git"
     source: git
     version: "0.0.1"
