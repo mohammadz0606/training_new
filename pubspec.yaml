@@ -33,7 +33,7 @@ dependencies:
   sts_one_pay:
     git:
       url: https://github.com/mohammadz0606/sts_one_pay_skd.git
-      ref: marge_all
+      ref: marge_ios
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
